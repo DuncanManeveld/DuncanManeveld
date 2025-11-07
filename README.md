@@ -61,4 +61,4 @@ These are the tools and concepts I'm proficient with:
 ### 🌐 Connect with Me
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-<img src="https://img.shields.io/badge/CS50_Python_Certified-9C27B0?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50 Python Certificate" />
+
